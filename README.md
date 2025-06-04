@@ -135,7 +135,7 @@ Item visibility and rating help in identifying underperforming categories.
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/blinkit-sales-dashboard.git
+git clone  https://github.com/yashgajbhiye07/blinkit-dashboard/blob/main/Screenshot%202025-06-04%20125614.png
 
 
 2. Open Blinkit_Dashboard.pbix in Power BI Desktop.
